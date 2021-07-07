@@ -79,7 +79,7 @@ const InputForm = (props) => {
       })
       .then(() => {
         fetch(
-          'http://ec2-18-223-99-203.us-east-2.compute.amazonaws.com/dbwrite/v1/posts',
+          'http://ec2-52-14-187-195.us-east-2.compute.amazonaws.com/dbwrite/v1/posts',
           {
             method: 'POST',
             headers: {

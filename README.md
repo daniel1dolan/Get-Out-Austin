@@ -91,7 +91,7 @@
 <ol>
     <li>An application's tech stack should be chosen to fulfill the need of the site. At the start of the project, we were excited to use new technologies, but they ended up not being best for what we wanted to achieve. In the end, using tech we had more experience with and that's more established in the ecosystem helped the success of our project. </li>
     <li>Server-Side rendering (and Next.js) is awesome! We saw firsthand how delivering rendered code to the client instead of a huge JS bundle increases speed. Our site is super fast and does well on performance tests. Having the benefit of improved SEO and in-built routing with Next.js was the cherry on top. Going forward we plan to use Next.js for more projects.</li>
-    <li>Working with all React Hooks was a joy. This is the first project we exclusively used Hooks, and we now see the benefit. Using functional components improved both our code's readability and reusability. It brought about small performance improvements as well. Hooking into Context was beneficial for storing essential information globally. Going forward we plan to move in the same direction as the React Dev Team and continue using Hooks. /li>
+    <li>Working with all React Hooks was a joy. This is the first project we exclusively used Hooks, and we now see the benefit. Using functional components improved both our code's readability and reusability. It brought about small performance improvements as well. Hooking into Context was beneficial for storing essential information globally. Going forward we plan to move in the same direction as the React Dev Team and continue using Hooks. </li>
 </ol>
 
 </br>

@@ -11,7 +11,7 @@ const Posts = (props) => {
 };
 export async function getServerSideProps() {
   const res = await fetch(
-    'http://ec2-18-223-99-203.us-east-2.compute.amazonaws.com/api/v1/posts'
+    'http://ec2-52-14-187-195.us-east-2.compute.amazonaws.com/api/v1/posts'
   );
   const posts = await res.json();
   // console.log(posts);
